@@ -27,12 +27,10 @@ cd AutoLaunch
 python3 anticrash.py stop
 ```
 --------------------------
-Join Channel : [BlackLifeTeaM](https://t.me/BlackLifeTM)
-* Developed By [MrBlackLife](https://t.me/MrBlackLife)
-# Special Thanks To 
+
+*
+
  ------------------------
-*BlackLifeTeaM Member's
-*Dragon Born
-*And TeleSeedTeaM Member's
+
 ---------------------------
 GOOD LUCK!
