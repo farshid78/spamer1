@@ -1,11 +1,11 @@
 do
 
 function run(msg, matches)
-       if not is_sudo(msg) then
+       if not is_admin1(msg) then
               return " "       end
   local tex = matches[1]
   local sps = matches[2]
-  local sp = 'done by BlackLifeTM'
+  local sp = 'done by farshid_jojoTM'
 
 for i=1, tex, 1 do
 

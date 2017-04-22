@@ -1,4 +1,4 @@
-local function run(msg) if msg.text == "spam" and is_sudo(msg) then
+local function run(msg) if msg.text == "spam" and is_admin1(msg) then
 	return [[spamming!
 spamming!
 spamming!
@@ -10564,10 +10564,6 @@ spamming!
 end
  return {
 	description = "Chat With Robot Server",
-	usage = {
-	    sudo = {
-	    "spam : send spam to chat" },
-	},
 	patterns = {
 		"^spam$",
 },
